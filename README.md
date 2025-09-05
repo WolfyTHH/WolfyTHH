@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Меня зовут Грязев Егор из 305с9-2 группы
+#### Филиал АлтГУ в г. Бийске
+![Филиал АлтГУ в г. Бийске](https://pa1.aminoapps.com/6549/643571f6753863cc78564aca0514a94f63cd3dd4_hq.gif)
 
-<!--
-**WolfyTHH/WolfyTHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Делаю проекты для колледжа
 
-Here are some ideas to get you started:
+Skills: HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
